@@ -49,3 +49,15 @@
 ## 数据存放
 
 作品数据库、设置、封面保存在本机：
+
+## 捐赠
+
+如果你觉得这个项目对你有帮助，可以帮作者买杯咖啡以表达你的支持！
+
+微信
+
+<img width="1039" height="875" alt="3f94acc90131cc068ef5c9aed61ed521" src="https://github.com/user-attachments/assets/27984517-d6f7-488f-b956-b15ddaf6bd87" />
+
+
+
+
