@@ -8,7 +8,7 @@
 
 | 版本 | 说明 | 下载 |
 |------|------|------|
-| **v3.0.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.0.0/灵枢2.0-Windows-x64.zip) |
+| **v3.0.1 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.0.1/灵枢2.0-Windows-x64.zip) |
 | **v2.0.3 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v2.0.3/灵枢2.0-Windows-x64.zip) |
 也可前往 [Releases 页面](https://github.com/XiaoJiuAI/lingshu/releases/latest) 查看全部版本。
 
