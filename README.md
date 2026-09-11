@@ -1,4 +1,4 @@
-# 灵枢 3.1.1
+# 灵枢 3.1.2
 
 本地运行的 AI 长篇小说写作工作室。从故事设定、分卷大纲、季章规划到逐章生成与优化，全程在本地完成；数据保存在本机，API Key 由用户自行配置。
 
@@ -8,7 +8,7 @@
 
 | 版本 | 说明 | 下载 |
 |------|------|------|
-| **v3.1.1 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.1.1/灵枢2.0-Windows-x64.zip) |
+| **v3.1.2 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.1.2/灵枢2.0-Windows-x64.zip) |
 | **v2.0.3 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v2.0.3/灵枢2.0-Windows-x64.zip) |
 也可前往 [Releases 页面](https://github.com/XiaoJiuAI/lingshu/releases/latest) 查看全部版本。
 
