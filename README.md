@@ -1,4 +1,4 @@
-# 灵枢 3.2.0
+# 灵枢 4.0
 
 本地运行的 AI 长篇小说写作工作室。从故事设定、分卷大纲、季章规划到逐章生成与优化，全程在本地完成；数据保存在本机，API Key 由用户自行配置。
 
@@ -8,6 +8,7 @@
 
 | 版本 | 说明 | 下载 |
 |------|------|------|
+| **v4.0.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.0.0/灵枢2.0-Windows-x64.zip) |
 | **v3.2.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.2.0/灵枢2.0-Windows-x64.zip) |
 | **v2.0.3 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v2.0.3/灵枢2.0-Windows-x64.zip) |
 也可前往 [Releases 页面](https://github.com/XiaoJiuAI/lingshu/releases/latest) 查看全部版本。
@@ -16,7 +17,7 @@
 
 ## 快速开始
 
-1. 下载并解压 `灵枢3.0-Windows-x64.zip`
+1. 下载并解压 `灵枢4.0-Windows-x64.zip`
 2. 进入解压后的文件夹，双击 **`灵枢3.0.exe`**
 3. 首次使用：进入顶部 **「设置」**，填写 [DeepSeek](https://platform.deepseek.com/) API Key，点击「测试连接」
 4. 返回 **「作品」**，点击「新建」开始创作
