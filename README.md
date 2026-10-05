@@ -15,7 +15,8 @@
 也可前往 [Releases 页面](https://github.com/XiaoJiuAI/lingshu/releases/latest) 查看全部版本。
 
 ---
-<img width="1779" height="884" alt="ChatGPT 图像 2026年10月5日 16_01_20" src="https://github.com/user-attachments/assets/50c79dda-eec1-47d8-bd50-f741751763d8" />
+<img width="1908" height="920" alt="bb135359f742983554d027d7b7d2369c" src="https://github.com/user-attachments/assets/9b388117-ff9b-4941-a98e-639e1b99056c" />
+
 <img width="1905" height="921" alt="ef59706084f5f1d71af8ae0f4fcde54d2d4c95882b73fd328aa74a5d9a31b87b" src="https://github.com/user-attachments/assets/8063875c-4e84-49a7-a332-37d261662464" />
 
 
