@@ -8,11 +8,12 @@
 
 | 版本 | 说明 | 下载 |
 |------|------|------|
-| **v4.2.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.2.0/灵枢2.0-Windows-x64.zip) |
-| **v4.1.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.1.0/灵枢2.0-Windows-x64.zip) |
-| **v4.0.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.0.0/灵枢2.0-Windows-x64.zip) |
-| **v3.2.0 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.2.0/灵枢2.0-Windows-x64.zip) |
-| **v2.0.3 便携版** | 解压即用，无需安装 Python / Node.js | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v2.0.3/灵枢2.0-Windows-x64.zip) |
+| **v4.3.0 便携版** | 付费| 移动端和电脑端 |
+| **v4.2.0 便携版** | 付费| [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.2.0/灵枢2.0-Windows-x64.zip) |
+| **v4.1.0 便携版** | 付费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.1.0/灵枢2.0-Windows-x64.zip) |
+| **v4.0.0 便携版** | 免费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.0.0/灵枢2.0-Windows-x64.zip) |
+| **v3.2.0 便携版** | 免费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.2.0/灵枢2.0-Windows-x64.zip) |
+| **v2.0.3 便携版** | 免费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v2.0.3/灵枢2.0-Windows-x64.zip) |
 也可前往 [Releases 页面](https://github.com/XiaoJiuAI/lingshu/releases/latest) 查看全部版本。
 
 ---
