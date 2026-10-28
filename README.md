@@ -9,7 +9,7 @@
 | 版本 | 说明 | 下载 |
 |------|------|------|
 | **v4.3.0 便携版** | 付费| 移动端和电脑端 |
-| **v4.2.0 便携版** | 付费| 移动端和电脑端|
+| **v4.2.0 便携版** | 付费|[**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.2.0/灵枢2.0-Windows-x64.zip) |
 | **v4.1.0 便携版** | 付费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.1.0/灵枢2.0-Windows-x64.zip) |
 | **v4.0.0 便携版** | 免费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v4.0.0/灵枢2.0-Windows-x64.zip) |
 | **v3.2.0 便携版** | 免费 | [**点击下载 zip**](https://github.com/XiaoJiuAI/lingshu/releases/tag/v3.2.0/灵枢2.0-Windows-x64.zip) |
